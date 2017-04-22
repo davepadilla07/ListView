@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">List_View</string>
+    <string name="areas">Areas</string>
+    <string name="volumenes">Volumenes</string>
+    <string name="operaciones_realizadas">Operaciones Realizadas</string>
+    <string name="cuadrado">Cuadrado</string>
+    <string name="rectangulo">Rectangulo</string>
+    <string name="triangulo">Triangulo</string>
+    <string name="circulo">Circulo</string>
+    <string name="esfera">Esfera</string>
+    <string name="cilindro">Cilindro</string>
+    <string name="cono">Cono</string>
+    <string name="cubo">Cubo</string>
+    <string name="operacion">Operacion</string>
+    <string name="datos">Datos</string>
+    <string name="resultados">Resultados</string>
+    <string name="valor_lado">Valor Del Lado:</string>
+    <string name="numero">Numero</string>
+    <string name="calcular">Calcular</string>
+    <string name="borrar">Borrar</string>
+    <string name="mensaje">Datos Calculados</string>
+    <string name="lado">Lado:</string>
+    <string name="base">Base:</string>
+    <string name="altura">Altura:</string>
+    <string-array name="opciones">
+        <item>@string/areas</item>
+        <item>@string/volumenes</item>
+        <item>@string/operaciones_realizadas</item>
+    </string-array>
+    <string-array name="areas">
+        <item>@string/cuadrado</item>
+        <item>@string/rectangulo</item>
+        <item>@string/triangulo</item>
+        <item>@string/circulo</item>
+    </string-array>
+    <string-array name="volumenes">
+        <item>@string/esfera</item>
+        <item>@string/cilindro</item>
+        <item>@string/cono</item>
+        <item>@string/cubo</item>
+    </string-array>
+</resources>
